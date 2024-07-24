@@ -1,0 +1,2 @@
+LLAM_HOST = "0.0.0.0"
+LLAM_PORT = 6000
