@@ -1,5 +1,5 @@
 # 🤖 LLAM 
-##Seamless AI Assistant API for OpenAI, Azure & Ollama models
+## Seamless AI Assistant API for OpenAI, Azure & Ollama models
 
 Welcome to the **FastAPI-based AI Assistant Management API**! This project provides an interface to create, manage, and interact with AI assistants using various providers like OpenAI, Azure, and Ollama.
 
